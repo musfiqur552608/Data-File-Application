@@ -13,3 +13,10 @@
 -   Designed for python
 -   import pickle
 -   save as name.pkl(nay valid name)
+
+## 💬 JSON
+-   JavaScript Object Notation
+-   Faster than pickle
+-   Independent Formate and good practice
+-   key-value pairs in curly braces
+-   save as name.json(nay valid name)
